@@ -3,7 +3,7 @@
 name: Bug Report
 about: Create a bug report to help us improve FSL
 title: "BUG:"
-labels: "Bug"
+labels: "bug"
 
 ---
 
@@ -14,11 +14,11 @@ labels: "Bug"
 - Operating system:   **INSERT HERE**              (tip: run `uname -a` in a terminal)
 ---
 
-## Describe the problem
+#### Describe the problem
 
 [insert description here]
 
-## (if relevant) Code sample or command line call that reproduces the bug
+#### (if relevant) Code sample or command line call that reproduces the bug
 
 ```
 # Your code here
