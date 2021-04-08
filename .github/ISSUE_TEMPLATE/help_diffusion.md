@@ -24,7 +24,7 @@ labels: "diffusion"
 # Your code here
 ```
 
-#### (if relevant) Attach screenshots and date files
+#### (if relevant) Attach screenshots and data files
 
 [ Use the github file attachment option to put your attachments here ]
 
