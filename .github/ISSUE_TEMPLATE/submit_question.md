@@ -1,8 +1,8 @@
 ---
 
-name: Submit Question
-about: Ask a general question about FSL or an FSL analysis
-title: "QST:"
+name: General Question/suggestion
+about: Submit a suggestion or ask a general question about FSL or an FSL analysis
+title: "question:"
 labels: "question"
 
 ---
@@ -14,9 +14,9 @@ labels: "question"
 - Operating system:   **INSERT HERE**              (tip: run `uname -a` in a terminal)
 ---
 
-#### Question about FSL or an FSL analysis
+#### Question/suggestion about FSL or an FSL analysis
 
-[insert question here]
+[insert question/suggestion here]
 
 ```
 # Your code here, if applicable
