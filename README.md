@@ -8,10 +8,6 @@ You are encouraged to ask questions about all FSL neuroimaging software, or ques
 
 Please use the information below to help you when submitting questions or software bugs. 
 
-## About the Maintainers
-
-This issue-only-repository is maintained by the [Analysis Group](https://www.win.ox.ac.uk/research/analysis-research), which is part of the [Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/) at the University of Oxford (where FSL is developed). Many past and present FSL software developers, and neuroimaging experts monitor this support repository. It's likely that a question you ask will be answered by the creator of an analysis program, or a person now maintaining it.  
-
 ## Using Issues
 
 Questions, comments, and bug reports all show up as issues within this Github repository. There are several templates you can choose from when creating a new issue.
@@ -49,3 +45,6 @@ Here are some useful direct links:
 - [Submit a general uncategorised question](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=question&template=zsubmit_question.md&title=question%3A)
 - [Submit a blank issue without a template for everything else](https://github.com/FMRIB-Software-Library/support/issues/new)
 
+## About the Maintainers
+
+This issue-only-repository is maintained by the [Analysis Group](https://www.win.ox.ac.uk/research/analysis-research), which is part of the [Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/) at the University of Oxford (where FSL is developed). Many past and present FSL software developers, and neuroimaging experts monitor this support repository. It's likely that a question you ask will be answered by the creator of an analysis program, or a person now maintaining it.  
