@@ -50,3 +50,7 @@ Here are some useful direct links:
 ## About the Maintainers
 
 This issue-only-repository is maintained by the [Analysis Group](https://www.win.ox.ac.uk/research/analysis-research), which is part of the [Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/) at the University of Oxford (where FSL is developed). Many past and present FSL software developers, and neuroimaging experts monitor this support repository. It's likely that a question you ask will be answered by the creator of an analysis program, or a person now maintaining it.  
+
+## FAQ
+
+to be filled in
