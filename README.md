@@ -32,8 +32,10 @@ Here are some useful direct links:
 
 ### Here are some direct links you can click to immediately start a new issue:
 
+- [Help with ASL analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=asl&template=help_asl.md&title=asl%3A)
 - [Help with diffusion analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=diffusion&template=help_diffusion.md&title=diffusion%3A)
 - [Help with FSL installation](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=install&template=help_installation.md&title=install%3A)
+- [Help with MRS analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=mrs&template=help_mrs.md&title=mrs%3A)
 - [Help with MRI preprocessing](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=preproc&template=help_preprocessing.md&title=preproc%3A)
 - [Help with resting state fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=rest-fmri&template=help_rest_fmri.md&title=rest-fmri%3A)
 - [Help with statistics](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=stats&template=help_statistics.md&title=stats%3A)
