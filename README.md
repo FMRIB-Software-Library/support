@@ -18,9 +18,11 @@ Questions, comments, and bug reports all show up as issues within this Github re
 
 Please take some time to fill in the requested information in the templates provided. If you don't have all the information availabe that's ok. Fill it in as best you can. Providing as much detailed information as possible will help us answer questions, or debug software issues faster. 
 
-Anyone can view and search issues. 
+Anyone can [view and search issues](https://github.com/FMRIB-Software-Library/support/issues?q=). 
 
 You must have a Github account to submit a new issue, or comment on an existing issue. Issues and comments are welcome from everyone using FSL regardless of career stage. We are here to support all researchers using FSL. **Everyone is encouraged to help answer questions on this issue list if they can.** 
+
+An issue cannot be create from an email. All new issues must be started using the [Github issue page](https://github.com/FMRIB-Software-Library/support/issues/new/choose). However, once an issue is created you can use email to respond to an issue notification sent to your Github email address. This is useful if you are watching certain topics. More info on Github notifications [here](https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/setting-up-notifications).  
 
 ### Searching past and current issues
 
