@@ -6,6 +6,7 @@ Contents
   - [Searching past and current issues](#searching-past-and-current-issues)
   - [Create a new issue](#here-are-some-direct-links-you-can-click-to-immediately-start-a-new-issue)
 - [About the Maintainers](#about-the-maintainers)
+  - [Maintainer email setup](#maintainer-email-setup)
 - [FAQ](#faq)
 
 This is the support website for FSL and FSL analyses. 
@@ -58,6 +59,17 @@ Here are some useful direct links:
 ## About the Maintainers
 
 This issue-only-repository is maintained by the [Analysis Group](https://www.win.ox.ac.uk/research/analysis-research), which is part of the [Wellcome Centre for Integrative Neuroimaging](https://www.win.ox.ac.uk/) at the University of Oxford (where FSL is developed). Many past and present FSL software developers, and neuroimaging experts monitor this support repository. It's likely that a question you ask will be answered by the creator of an analysis program, or a person now maintaining it.  
+
+### Maintainer email setup
+
+If you use Github for more than one project and belong to multiple organization you may want to route your emails to a specific address per organization. 
+
+To route your email for this organization:
+
+1. [Go to your profile notification settings](https://github.com/settings/notifications)
+2. Scroll to the bottom of the page to **Custom routing**
+3. Route your email to the address you want for this organization **FMRIB-Software-Library**
+  * note: you may need to first [associate this additional email with your Github profile](https://github.com/settings/emails) 
 
 ## FAQ
 
