@@ -1,5 +1,13 @@
 # FSL Support
 
+Contents
+
+- [Using-issues](#using-issues)
+  - [Searching past and current issues](#searching-past-and-current-issues)
+  - [Create a new issue](#here-are-some-direct-links-you-can-click-to-immediately-start-a-new-issue)
+- [About the Maintainers](#about-the-maintainers)
+- [FAQ](#faq)
+
 This is the support website for FSL and FSL analyses. 
 
 This public Github repository serves as a general purpose support portal. It is used as an issue-only-repository. No FSL source code is stored here. If you are looking for FSL sources you can download them [here](https://fsl.fmrib.ox.ac.uk/fsldownloads_registration). 
