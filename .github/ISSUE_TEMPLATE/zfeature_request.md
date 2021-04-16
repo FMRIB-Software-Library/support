@@ -2,8 +2,8 @@
 
 name: Feature Request
 about: Suggest an idea for FSL or an FSL analysis
-title: "ENH:"
-labels: "enhancement"
+title: "feature:"
+labels: "feature"
 
 ---
 
