@@ -62,7 +62,7 @@ This issue-only-repository is maintained by the [Analysis Group](https://www.win
 
 ### Maintainer email setup
 
-If you use Github for more than one project and belong to multiple organization you may want to route your emails to a specific address per organization. 
+If you use Github for more than one project and belong to multiple organizations you may want to route your emails to a specific address per organization. 
 
 To route your email for this organization:
 
