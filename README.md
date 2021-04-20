@@ -9,6 +9,23 @@ Contents
   - [Maintainer email setup](#maintainer-email-setup)
 - [FAQ](#faq)
 
+### Here are some direct links you can click to immediately start a new issue:
+
+- [Help with ASL analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=asl&template=help_asl.md&title=asl%3A)
+- [Help with diffusion analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=diffusion&template=help_diffusion.md&title=diffusion%3A)
+- [Help with FSL installation](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=install&template=help_installation.md&title=install%3A)
+- [Help with MRS analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=mrs&template=help_mrs.md&title=mrs%3A)
+- [Help with MRI preprocessing](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=preproc&template=help_preprocessing.md&title=preproc%3A)
+- [Help with resting state fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=rest-fmri&template=help_rest_fmri.md&title=rest-fmri%3A)
+- [Help with statistics](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=stats&template=help_statistics.md&title=stats%3A)
+- [Help with structural analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=struct&template=help_structural.md&title=struct%3A)
+- [Help with task fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=task-fmri&template=help_task_fmri.md&title=task-fmri%3A)
+- [Help with technical issues](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=tech&template=help_technical.md&title=tech%3A)
+- [Report a bug](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=bug&template=zbug_report.md&title=BUG%3A)
+- [Submit a feature request](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=feature&template=zfeature_request.md&title=feature%3A)
+- [Submit a general uncategorised question](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=question&template=zsubmit_question.md&title=question%3A)
+- [Submit a blank issue without a template for everything else](https://github.com/FMRIB-Software-Library/support/issues/new)
+
 This is the support website for FSL and FSL analyses. 
 
 This public Github repository serves as a general purpose support portal. It is used as an issue-only-repository. No FSL source code is stored here. If you are looking for FSL sources you can download them [here](https://fsl.fmrib.ox.ac.uk/fsldownloads_registration). 
@@ -38,23 +55,6 @@ Here are some useful direct links:
 - [Search ALL issues (open, closed, solved, unsolved)](https://github.com/FMRIB-Software-Library/support/issues?q=)
 - [Search only currently open issues](https://github.com/FMRIB-Software-Library/support/issues)
 - [Search all issues marked as solved](https://github.com/FMRIB-Software-Library/support/issues?q=is%3Aissue+label%3Asolved+)
-
-### Here are some direct links you can click to immediately start a new issue:
-
-- [Help with ASL analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=asl&template=help_asl.md&title=asl%3A)
-- [Help with diffusion analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=diffusion&template=help_diffusion.md&title=diffusion%3A)
-- [Help with FSL installation](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=install&template=help_installation.md&title=install%3A)
-- [Help with MRS analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=mrs&template=help_mrs.md&title=mrs%3A)
-- [Help with MRI preprocessing](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=preproc&template=help_preprocessing.md&title=preproc%3A)
-- [Help with resting state fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=rest-fmri&template=help_rest_fmri.md&title=rest-fmri%3A)
-- [Help with statistics](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=stats&template=help_statistics.md&title=stats%3A)
-- [Help with structural analysis](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=struct&template=help_structural.md&title=struct%3A)
-- [Help with task fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=task-fmri&template=help_task_fmri.md&title=task-fmri%3A)
-- [Help with technical issues](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=tech&template=help_technical.md&title=tech%3A)
-- [Report a bug](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=bug&template=zbug_report.md&title=BUG%3A)
-- [Submit a feature request](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=feature&template=zfeature_request.md&title=feature%3A)
-- [Submit a general uncategorised question](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=question&template=zsubmit_question.md&title=question%3A)
-- [Submit a blank issue without a template for everything else](https://github.com/FMRIB-Software-Library/support/issues/new)
 
 ## About the Maintainers
 
