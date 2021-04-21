@@ -59,6 +59,7 @@ Here are some useful direct links:
 - [Search ALL issues (open, closed, solved, unsolved)](https://github.com/FMRIB-Software-Library/support/issues?q=)
 - [Search only currently open issues](https://github.com/FMRIB-Software-Library/support/issues)
 - [Search all issues marked as solved](https://github.com/FMRIB-Software-Library/support/issues?q=is%3Aissue+label%3Asolved+)
+- [Search all posted job ads](https://github.com/FMRIB-Software-Library/support/issues?q=label%3Ajob)
 
 ## About the Maintainers
 
