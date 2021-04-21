@@ -2,7 +2,7 @@
 
 name: General Question/suggestion
 about: Submit a suggestion or ask a general question about FSL or an FSL analysis
-title: "question:"
+title:
 labels: "question"
 
 ---
