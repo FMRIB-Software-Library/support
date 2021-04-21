@@ -22,9 +22,11 @@ Contents
 - [Help with task fMRI](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=task-fmri&template=help_task_fmri.md&title=task-fmri%3A)
 - [Help with technical issues](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=tech&template=help_technical.md&title=tech%3A)
 - [Report a bug](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=bug&template=zbug_report.md&title=BUG%3A)
+- [Post a job ad](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=job&template=zjob_ad.md)
 - [Submit a feature request](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=feature&template=zfeature_request.md&title=feature%3A)
 - [Submit a general uncategorised question](https://github.com/FMRIB-Software-Library/support/issues/new?assignees=&labels=question&template=zsubmit_question.md&title=question%3A)
 - [Submit a blank issue without a template for everything else](https://github.com/FMRIB-Software-Library/support/issues/new)
+
 
 This is the support website for FSL and FSL analyses. 
 
