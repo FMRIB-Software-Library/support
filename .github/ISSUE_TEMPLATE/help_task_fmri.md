@@ -2,7 +2,7 @@
 
 name: Help with task fMRI
 about: Ask a qustion or report an issue related to task fMRI
-title: "task-fmri:"
+title:
 labels: "task-fmri"
 
 ---
