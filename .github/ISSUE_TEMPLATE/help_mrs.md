@@ -2,7 +2,7 @@
 
 name: Help with MRS analysis
 about: Ask a qustion or report an issue related to magnetic resonance spectroscopy (MRS)
-title: "mrs:"
+title:
 labels: "mrs"
 
 ---
