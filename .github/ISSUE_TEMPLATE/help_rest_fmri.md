@@ -2,7 +2,7 @@
 
 name: Help with resting state fMRI
 about: Ask a qustion or report an issue related to resting state fMRI
-title: "rest-fmri:"
+title:
 labels: "rest-fmri"
 
 ---
