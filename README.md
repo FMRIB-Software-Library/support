@@ -34,7 +34,9 @@ This public Github repository serves as a general purpose support portal. It is 
 
 You are encouraged to ask questions about all FSL neuroimaging software, or questions about your analyses that use FSL. We also encourage you to report any FSL software bugs you encounter. This Github repository replaces the [FSL JISC](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=fsl) email list. That list will remain active so that it is searchable on the web, but new support questions should be directed to the [issue page](https://github.com/FMRIB-Software-Library/support/issues/new/choose) of this Github repository.
 
-Please use the information below to help you when submitting questions or software bugs. 
+## Notifications
+
+If you want to get notified when new issues and comments are posted (like an email list), just click **watch** on the top right of this webpage. You can choose the level of notifications you wish to subscribe to. 
 
 ## Using Issues
 
