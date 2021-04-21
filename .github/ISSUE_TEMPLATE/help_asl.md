@@ -2,7 +2,7 @@
 
 name: Help with ASL analysis
 about: Ask a qustion or report an issue related to arterial spin labelling analysis
-title: "asl:"
+title:
 labels: "asl"
 
 ---
