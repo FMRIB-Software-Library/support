@@ -2,7 +2,7 @@
 
 name: Having technical issues
 about: Ask a qustion or report an issue related to a general technical issues
-title: "tech:"
+title:
 labels: "tech"
 
 ---
