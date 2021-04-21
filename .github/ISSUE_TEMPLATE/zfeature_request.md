@@ -2,7 +2,7 @@
 
 name: Feature Request
 about: Suggest an idea for FSL or an FSL analysis
-title: "feature:"
+title:
 labels: "feature"
 
 ---
