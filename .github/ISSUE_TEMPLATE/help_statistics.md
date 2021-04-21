@@ -2,7 +2,7 @@
 
 name: Help with statistics
 about: Ask a qustion or report an issue related to MRI statistical analysis
-title: "stats:"
+title:
 labels: "stats"
 
 ---
