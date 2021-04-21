@@ -2,7 +2,7 @@
 
 name: Help with stuctural analysis
 about: Ask a qustion or report an issue related to structural analysis
-title: "struct:"
+title:
 labels: "struct"
 
 ---
