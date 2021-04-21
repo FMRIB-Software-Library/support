@@ -2,7 +2,7 @@
 
 name: Help with MRI preprocessing
 about: Ask a qustion or report an issue related to MRI preprocessing
-title: "preproc:"
+title:
 labels: "preproc"
 
 ---
