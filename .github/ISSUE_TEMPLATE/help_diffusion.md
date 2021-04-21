@@ -2,7 +2,7 @@
 
 name: Help with diffusion analysis
 about: Ask a qustion or report an issue related to diffusion analysis
-title: "diffusion:"
+title:
 labels: "diffusion"
 
 ---
