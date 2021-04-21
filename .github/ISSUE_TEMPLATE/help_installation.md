@@ -2,7 +2,7 @@
 
 name: Help with FSL installation
 about: Ask a qustion or report an issue related to installing FSL 
-title: "install:"
+title:
 labels: "install"
 
 ---
