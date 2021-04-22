@@ -11,7 +11,6 @@ labels: "preproc"
 
 - I have checked that this issue or question has not already been [reported on this issue tracker](https://github.com/FMRIB-Software-Library/fsl-issues-and-support/issues?q=) 
 - FSL version:        **INSERT HERE**              (tip: run `cat $FSLDIR/etc/fslversion` in a terminal)
-- Operating system:   **INSERT HERE**              (tip: run `uname -a` in a terminal)
 ---
 
 #### Describe the problem
